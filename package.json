@@ -12,7 +12,7 @@
   "private": true,
   "dependencies": {
     "@angular/animations": "^6.1.0",
-    "@angular/common": "^6.1.0",
+    "@angular/common": "^6.1.10",
     "@angular/compiler": "^6.1.0",
     "@angular/core": "^6.1.0",
     "@angular/forms": "^6.1.0",
@@ -20,8 +20,14 @@
     "@angular/platform-browser": "^6.1.0",
     "@angular/platform-browser-dynamic": "^6.1.0",
     "@angular/router": "^6.1.0",
+    "@auth0/angular-jwt": "^3.0.0",
+    "angular-flash-message": "^3.4.0",
+    "angular2-flash-messages": "^3.0.1",
+    "angular2-jwt": "^0.2.3",
+    "bootstrap": "^4.3.1",
     "core-js": "^2.5.4",
     "rxjs": "~6.2.0",
+    "rxjs-compat": "^6.5.2",
     "zone.js": "~0.8.26"
   },
   "devDependencies": {
